@@ -9,11 +9,11 @@
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img1.jpg)
 </br>
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img3.jpg)
-<p></p>
+</br>
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img2.jpg)
-<p></p>
+</br>
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img4.jpg)
-<p></p>
+</br>
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img6.jpg)
-<p></p>
+</br>
 ![Alt text](https://github.com/maciejnalewajka/WorkTime/blob/master/img/img5.jpg)
