@@ -1,5 +1,12 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
+    <!--Main-->
     <string name="app_name">WorkTime</string>
+    <string name="image">image</string>
+
+    <!--Master-->
+
+    <!--User-->
+
     <string name="title_activity_main2">Main2Activity</string>
     <string name="nowe_zadanie">Nowe zadanie</string>
     <string name="osoba">Osoba</string>
@@ -30,9 +37,9 @@
     <string name="zarejestruj">Zarejestruj</string>
     <string name="code">Code</string>
     <string name="powt_rz_has_o">Powtórz hasło</string>
-    <string name="worktime">WorkTime</string>
     <string name="zaloguj">Zaloguj</string>
     <string name="back">Back</string>
     <string name="register">Register</string>
     <string name="start_stop"><![CDATA[Start & Stop]]></string>
+
 </resources>

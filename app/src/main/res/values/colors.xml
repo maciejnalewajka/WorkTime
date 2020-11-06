@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Main-->
     <color name="colorPrimary">#bde4f4</color>
     <color name="colorPrimaryDark">#bde4f4</color>
     <color name="colorAccent">#bde4f4</color>
-    <color name="color_1">#bde4f4</color>
-    <color name="color_2">#fcc418</color>
+    <color name="color_background">#bde4f4</color>
+    <color name="color_text_shadow">#FFAFAF</color>
+    <color name="color_2">#FF7F50</color>
+
+
+
+    <!--Master-->
+
+    <!--User-->
+
+    <color name="color_22">#fcc418</color>
     <color name="color_3">#9d202120</color>
     <color name="color_4">#E0FCFF</color>
     <color name="color_5">#e3e3e3</color>
-    <color name="color_6">#FF7F50</color>
+
     <color name="color_bialy">#ffffff</color>
     <color name="przeźroczysty">#003f403f</color>
     <color name="greyer">#8a353333</color>
+    <color name="black">#000</color>
 </resources>
